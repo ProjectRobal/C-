@@ -1,5 +1,7 @@
 # Fast Positioning Encrypt Protocol ver 0.2 Alpha
-Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it in comercial use but you have to mention that you are using this protocol.
+Fast Positioning Encrypt Protocol
+
+ Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it in comercial use but you have to mention that you are using this protocol.
 
  Protocol is in early development and specification can change in the future. Present version is 0.2 Aplha. Source code was written in C++ code and works on x86-64 based computers system. 
 
@@ -81,11 +83,15 @@ Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it i
     • bitrightshift- right bit shift of key (in number) by default is 0 (no shifting)
       
     • filepath- file path to the file
-    
+
 3.Files:
+    <p>• FPEP.exe - demo app</p>
     
- FPEP.exe - demo app
- FPEP.hpp - library of project
- FPEP.dll - dll of project
- libFPEP.a - linking file of project
+   <p> • FPEP.hpp - library of project</p>
+    
+   <p> • FPEP.dll - dll of project</p>
+    
+   <p> • libFPEP.a - linking file of project</p>
+    
  
+
