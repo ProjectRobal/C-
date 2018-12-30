@@ -82,10 +82,10 @@ Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it i
       
     • filepath- file path to the file
     
-    3.Files:
+3.Files:
     
-    FPEP.exe - demo app
-    FPEP.hpp - library of project
-    FPEP.dll - dll of project
-    libFPEP.a - linking file of project
+ FPEP.exe - demo app
+ FPEP.hpp - library of project
+ FPEP.dll - dll of project
+ libFPEP.a - linking file of project
  
