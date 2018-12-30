@@ -87,5 +87,5 @@ Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it i
     FPEP.exe - demo app
     FPEP.hpp - library of project
     FPEP.dll - dll of project
-    FPEP.a - linking file of project
+    libFPEP.a - linking file of project
  
