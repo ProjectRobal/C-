@@ -1,4 +1,4 @@
-# Fast Positioning Encrypt Protocol ver 0.2 Alpha
+# Fast Positioning Encrypt Protocol ver 0.4 Alpha
 <p>Fast Positioning Encrypt Protocol</p>
 
 <p>Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it in comercial use but you have to mention that you are using this protocol.</p>
