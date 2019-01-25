@@ -3,7 +3,7 @@
 
 <p>Fast Positioning Encrypt Protocol is freeware encrypt protocol. You can use it in comercial use but you have to mention that you are using this protocol.</p>
 
- Protocol is in early development and specification can change in the future. Present version is 0.2 Aplha. Source code was written in C++ code and works on x86-64 based computers system. 
+ Protocol is in early development and specification can change in the future. Present version is 0.4 Alpha. Source code was written in C++ code and works on x86-64 based computers system. 
  
 ## 1.Specification:
 
